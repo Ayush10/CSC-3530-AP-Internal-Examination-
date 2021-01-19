@@ -1,0 +1,22 @@
+					Inland Revenue Department
+						Lazimpat, Kathmandu
+							Welcome to
+					Integrated Tax System(ITS)
+
+Tax Payee: Ayush Ojha                       Address: Balaju
+PAN No.: 1234           FY: 2020/21         Married Status = N
+
+Tax Payee Ayush Ojha with PAN 1234 fall under 1+25% Tax salb.
+Ayush Ojha (PAN 1234) to pay to government is [Rs.] = 125000
+
+
+					Inland Revenue Department
+						Lazimpat, Kathmandu
+							Welcome to
+					Integrated Tax System(ITS)
+
+Tax Payee: Nishan Hamal                       Address: Balaju
+PAN No.: 1456           FY: 2020/21         Married Status = Y
+
+Tax Payee Nishan Hamal with PAN 1234 fall under 1+25% Tax salb.
+Nishan Hamal (PAN 1456) to pay to government is [Rs.] = 35000
